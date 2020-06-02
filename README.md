@@ -1,7 +1,7 @@
 # competitive_programming
 This repository contains all the competitive programming solutions including that of Leetcode
 
-
+connect on : [Linkedin](https://www.linkedin.com/in/kirti-kunal/)  or  [email](kirtikunal4@gmail.com)
 
 |  #  |      Title     |   Solutions   | Difficulty  | Tag                   
 |-----|----------------|---------------|-------------|-------------
