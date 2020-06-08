@@ -10,7 +10,8 @@ connect on : [Linkedin](https://www.linkedin.com/in/kirti-kunal/)  or  [email](m
 |3|[June Day3 Leetcode Challenge: Two city scheduling](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3349/)|[Solution](../master/leetcode_junechallenge_day3.java) |Medium|Greedy Algorithm|
 |4|[June Day4 Leetcode Challenge: Reverse String](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3350/)|[Solution](../master/leetcode_junechallenge_day4.java) |Easy|Array, Two Pointer|
 |5|[June Day5 Leetcode Challenge: Random Pick Weight](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3351/)|[Solution](../master/leetcode_junechallenge_day5.java) |Medium|Array|
-|6|[June Day5 Leetcode Challenge: Queue Reconstruction by height](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3352/)|[Solution](../master/leetcode_junechallenge_day6.java) |Medium|Array|
+|6|[June Day6 Leetcode Challenge: Queue Reconstruction by height](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3352/)|[Solution](../master/leetcode_junechallenge_day6.java) |Medium|Array|
+|7|[June Day7 Leetcode Challenge: Coin Change 2](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3353/)|[Solution](../master/leetcode_junechallenge_day7.java) |Medium|Dynamic Programming|
 
 
 
